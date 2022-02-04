@@ -1,4 +1,4 @@
-# Joc-EDA
+# Joc-EDA-FIB
 
 Abans de res, si tu també vas participar t'animem a compartir el codi de la teva IA (pots fer pull request, issue o enviar-me un missatge)
 
