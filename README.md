@@ -36,5 +36,5 @@ python3 multiple_games3.py
 pip3 install subprocess
 ```
 ---
-- A la carptea Codis IA, hi trobareu el codis referents a la propia IA.
-- A la carpeta Jugadors, hi trobareu els arxius compilats d'altres persones per poder jugar amb aquests i comparar-los.
+- A la carptea [Codis IA](Codis%20IA), hi trobareu el codis referents a la propia IA.
+- A la carpeta [Jugadors](Jugadors), hi trobareu els arxius compilats d'altres persones per poder jugar amb aquests i comparar-los.
