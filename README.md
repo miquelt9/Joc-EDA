@@ -1,4 +1,10 @@
 # Joc-EDA-FIB
+[![HitCount](https://hits.dwyl.com/miquelt9/Joc-EDA.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/Joc-EDA)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](/CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/Joc-EDA.svg)](https://GitHub.com/miquelt9/Joc-EDA/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/Joc-EDA.svg)](https://GitHub.com/miquelt9/Joc-EDA/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/Joc-EDA.svg)](https://github.com/miquelt9/Joc-EDA)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/Joc-EDA.svg)](https://GitHub.com/miquelt9/Joc-EDA/graphs/contributors/)
 
 Abans de res, si tu també vas participar t'animem a compartir el codi de la teva IA (pots fer pull request, issue o enviar-me un missatge)
 
